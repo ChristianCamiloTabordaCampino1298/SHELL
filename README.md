@@ -1,2 +1,2 @@
 # SHELL
-Desarrollo de un Shell básico en C
+Development of a basic shell in C
